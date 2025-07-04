@@ -1,3 +1,1 @@
-0000000000000000000000000000000000000000 9c474bfb00abdc593337ffca22ccf954a35da90e gospleofgodskin <44369295-gospleofgodskin@users.noreply.replit.com> 1751580166 +0000	commit (initial): Initial commit
-9c474bfb00abdc593337ffca22ccf954a35da90e 2c9e1a44967090b042885c16d9f6c5f7586fe0a1 gospleofgodskin <44369295-gospleofgodskin@users.noreply.replit.com> 1751580539 +0000	commit: Builds out the basic application structure and user interface components
-2c9e1a44967090b042885c16d9f6c5f7586fe0a1 5ca347ff16dd61536779555df2328811f4b8feff gospleofgodskin <44369295-gospleofgodskin@users.noreply.replit.com> 1751581459 +0000	commit: Enable secure user authentication and authorization across the platform
+ref: refs/heads/main

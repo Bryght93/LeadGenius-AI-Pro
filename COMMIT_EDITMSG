@@ -1,0 +1,7 @@
+Enable secure user authentication and authorization across the platform
+
+Implements Replit Auth with OIDC, integrates passport.js, express-session, and protects API endpoints with the `isAuthenticated` middleware.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 8b7ec2c2-c81f-4313-a1f9-9caf5bec5f15
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/a732e55e-688e-42dd-9378-3f8f6c2ffcba/cfdd1fde-e035-4574-a56e-3ea321ec4851.jpg
